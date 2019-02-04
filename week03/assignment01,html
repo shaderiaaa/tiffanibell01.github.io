@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+<h1>Tiffani T. Bell</h1>
+<hr>
+<p>I'm a proud student that attend el Centro Early college in Web Design and programming class.</p>
+
+ <ol>
+   <li>Web Design 1</li>
+   <li>Intro to powerpoint</li>
+   < li> Intro to Cyber Security</li>
+
+
+ </ol>
+
+ <ol>
+   <li>I like Track</li>
+   <li>I take classes at El Centro</li>
+   < li> Im 17 Years old</li>
+
+
+ </ol>
+
+</body>
+</html>
