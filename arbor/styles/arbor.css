@@ -4,3 +4,20 @@ body {
   color: black;
   margin: 0px;
 }
+a:link {
+    color: blue;
+   text-decoration: underline;
+}
+a:Visited {
+  color: #990000;
+  text-decoration: underline;
+}
+a:hover{
+  color: #006633;
+  text-decoration: none;
+}
+#footer {
+  font-size: small;
+  text-align: center;
+  clear: both;
+}
